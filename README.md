@@ -4,7 +4,7 @@
 brew install python3
 
 2. Install dependencies
-pip3 install selenium webdriver-manager beautifulsoup4
+npm install
 
 3. Run script
 python3 scraper.py
