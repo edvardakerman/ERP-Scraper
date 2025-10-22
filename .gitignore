@@ -6,6 +6,9 @@ __pycache__/
 # ignore local .txt files
 *.txt
 
+#ignore node_modules
+node_modules
+
 # C extensions
 *.so
 
