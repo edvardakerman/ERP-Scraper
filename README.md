@@ -6,7 +6,7 @@ brew install python3
 
 2. Install dependencies:
 
-npm install
+pip3 install selenium webdriver-manager beautifulsoup4
 
 3. Run script:
 
