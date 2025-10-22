@@ -9,6 +9,9 @@ __pycache__/
 #ignore node_modules
 node_modules
 
+# ignore json
+*.json
+
 # C extensions
 *.so
 
